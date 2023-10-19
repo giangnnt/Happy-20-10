@@ -1,0 +1,41 @@
+    #card {
+        margin: 8%;
+        position: absolute;
+        height: auto;
+        width: 350px;
+        border-radius: 10px;
+        background-color: white;
+        background-image: url("https://png.pngtree.com/png-clipart/20200628/ourlarge/pngtree-elegant-floral-frame-for-decorating-greeting-cardb-png-image_2267574.jpg");
+        background-size: 40vh, 70vh;
+        box-shadow: 0px 0px 30px rgb(179, 255, 0);
+        transform: rotate(3deg);
+        top: 0px;
+        opacity: 0;
+        left: -200%;
+    }
+
+    .honey {
+        margin: auto;
+        padding: 5%;
+        display: block;
+        border-radius: 50%;
+        box-shadow: 0 4px 8px 0 rgb(0, 255, 213);
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+    }
+
+    h4 {
+        text-align: center;
+        color: rgb(182, 127, 255);
+        -webkit-background-clip: text;
+        padding: -2%;
+        font-size: 18px;
+        overflow: hidden;
+    }
+
+    .card-show{
+        opacity: 1 !important;
+        left: 0 !important;
+        transition: all 1s;
+    }
