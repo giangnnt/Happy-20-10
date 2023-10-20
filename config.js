@@ -1,7 +1,7 @@
 const nameGirl = 'Vânn Annh';
 const giftUrl = 'https://www.netflix.com/vn/';
 const eventName = '20-10 zui zẻ đêys';
-const titleCard = 'Giang tặng Annh';
+const titleCard = 'Anh tặng Annh';
 const contentCard = 'Ngày hôm này tui gửi Vânn Annh lời chúc tốt đẹp nhất. Hy vọng bạn luôn giữ niềm tin, sự tự tin và mạnh mẽ. Chúc bạn có một ngày thật hạnh phúc và đầy ý nghĩa 😘';
 const giftImage = 'VA.jpg';
 const giftImage1 = 'VA1.jpg';
